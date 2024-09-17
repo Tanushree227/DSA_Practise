@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays_DSA;
 
 public class problem6 {
     public static void main(String[] args) {
