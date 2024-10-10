@@ -5,8 +5,7 @@ public class insert_unsorted_array {
     // Function to insert a given key in
     // the array. This function returns n+1
     // if insertion is successful, else n.
-    static int insertEnd(int arr[], int n, int key,
-                            int capacity)
+    static int insertEnd(int arr[], int n, int key, int capacity)
     {
 
         // Cannot insert more elements if n
