@@ -1,2 +1,13 @@
 Q1. What is a packaged application, and how is it different from custom-built software?
 Ans. A packaged application is a pre-built software solution developed by third-party vendors (like SAP, Oracle, or Salesforce) to address common business needs. Unlike custom-built software, packaged applications are designed to be implemented with minimal customization, allowing businesses to quickly deploy solutions without the need for developing software from scratch. While custom-built software is tailored to specific business requirements, packaged apps are more cost-effective and standardized.
+
+Q2. Can you explain the typical implementation process of a packaged application?
+Ans. The implementation process of a packaged application usually involves several stages:
+
+i. Requirement Gathering: Understand the business needs and map them to the features of the packaged application.
+ii. Gap Analysis: Identify the gaps between business needs and the packaged application functionality.
+iii. Configuration: Set up the application parameters to meet specific business requirements.
+iv. Customization: (If required) Make minor changes through scripting or integration to adapt the packaged app to the business.
+v. Testing: Validate the configuration/customization through rigorous testing (e.g., unit testing, user acceptance testing).
+vi. Deployment: Deploy the application to production.
+vii. Training & Support: Train the users and provide ongoing support to ensure successful adoption.
