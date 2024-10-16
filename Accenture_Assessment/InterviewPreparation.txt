@@ -11,3 +11,6 @@ iv. Customization: (If required) Make minor changes through scripting or integra
 v. Testing: Validate the configuration/customization through rigorous testing (e.g., unit testing, user acceptance testing).
 vi. Deployment: Deploy the application to production.
 vii. Training & Support: Train the users and provide ongoing support to ensure successful adoption.
+
+Q3. How would you handle the challenge of aligning a packaged app with a client’s unique business requirements?
+Ans. First, I would conduct a thorough gap analysis to identify where the client’s unique needs differ from the out-of-the-box functionality of the packaged app. I would then explore configuration options to tailor the system without heavy customization. If necessary, I would recommend minor customizations or integrating the packaged app with other software. The goal is always to strike a balance between meeting business requirements and minimizing complexity or maintenance overhead.
