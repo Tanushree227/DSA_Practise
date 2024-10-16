@@ -37,8 +37,7 @@ public class sum_array {
     }
 
     // Function to perform binary search
-    static boolean binarySearch(int[] arr, int left,
-                                int right, int target){
+    static boolean binarySearch(int[] arr, int left, int right, int target){
         while (left <= right) {
             int mid = left + (right - left) / 2;
 
@@ -51,6 +50,7 @@ public class sum_array {
         }
         return false;
     }
+}
 
     //Better Approach
     // Function to check whether any pair exists
@@ -120,6 +120,3 @@ public class sum_array {
     //         System.out.println("false");
     //     }
     // }
-}
-
-
