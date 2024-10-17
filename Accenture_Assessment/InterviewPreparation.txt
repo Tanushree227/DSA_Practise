@@ -28,3 +28,10 @@ Oracle ERP Cloud
 Microsoft Dynamics 365
 NetSuite
 Infor CloudSuite
+
+Q6. Can you explain the key components of SAP (or any other packaged app) architecture?
+Ans. The architecture of SAP can be broken down into three layers:
+
+Presentation Layer: This is the user interface where end-users interact with the system (e.g., SAP GUI, SAP Fiori).
+Application Layer: The business logic resides here. It processes requests from the presentation layer and interacts with the database.
+Database Layer: This is where the data is stored. SAP typically uses a relational database like SAP HANA or Oracle DB.
