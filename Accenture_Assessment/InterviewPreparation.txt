@@ -17,3 +17,14 @@ Ans. First, I would conduct a thorough gap analysis to identify where the client
 
 Q4.  What is the importance of testing in the implementation of packaged applications?
 Ans. Testing is crucial in packaged application implementation to ensure that the system works as intended, that configurations or customizations do not introduce errors, and that the business requirements are fully met. Testing helps in identifying any integration issues with other systems, ensures data integrity, and validates that the application performs well under real-world conditions. Thorough testing minimizes the risk of costly errors after deployment and ensures user satisfaction.
+
+Q5. What do you know about ERP systems? Can you name a few popular ERP applications?
+Ans. ERP (Enterprise Resource Planning) systems are software solutions designed to integrate various business processes across departments (like finance, HR, procurement, and supply chain) into one unified system. ERP systems help organizations improve efficiency, data accuracy, and decision-making by consolidating data in a single platform.
+
+Some popular ERP systems include:
+
+SAP ERP
+Oracle ERP Cloud
+Microsoft Dynamics 365
+NetSuite
+Infor CloudSuite
